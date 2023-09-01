@@ -28,7 +28,7 @@ Welcome to Link Manager Discord Bot's Privacy Policy. This policy outlines how w
 
 5. Your Rights
 
-5.1. You have the right to access, correct, or delete your data processed by Link Manager. To exercise these rights or to inquire about your data, please contact us at (https://discord.gg/dYNERWs7Vu)[Support]
+5.1. You have the right to access, correct, or delete your data processed by Link Manager. To exercise these rights or to inquire about your data, please contact us at [Support](https://discord.gg/dYNERWs7Vu)
 
 6. Changes to the Privacy Policy
 
@@ -36,7 +36,7 @@ Welcome to Link Manager Discord Bot's Privacy Policy. This policy outlines how w
 
 7. Contact Information
 
-7.1. If you have any questions, concerns, or requests regarding your data or this Privacy Policy, you can contact us at https://discord.gg/dYNERWs7Vu
+7.1. If you have any questions, concerns, or requests regarding your data or this Privacy Policy, you can contact us at [Support](https://discord.gg/dYNERWs7Vu)
 
 By using Link Manager, you agree to the terms outlined in this Privacy Policy. Please make sure to review and understand this policy before using the bot.
 
