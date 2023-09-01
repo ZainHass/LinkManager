@@ -47,7 +47,7 @@ c. Automatically check links for potential security risks or malicious content.
 
 8. Contact Information
 
-8.1. For inquiries, support, or concerns, you can contact us at (Support)[https://discord.gg/dYNERWs7Vu]
+8.1. For inquiries, support, or concerns, you can contact us at [https://discord.gg/dYNERWs7Vu](Support)
 
 By using  Link Manager , you agree to these Terms of Service. Please ensure you read and understand these terms before utilizing the bot. Failure to comply with these terms may result in the restriction or termination of your access to Link Manager 
 
